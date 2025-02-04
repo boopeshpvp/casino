@@ -3,7 +3,7 @@ import { Typography, Row, Col, Space, Select, Divider } from "antd";
 import { footerIcon, footerImage } from "../common";
 
 const { Title, Text, Link } = Typography;
-const { Option } = Select;
+const { Option } = Select; 
 
 const AppFooter = () => {
   return (
